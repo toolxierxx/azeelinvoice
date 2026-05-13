@@ -9,15 +9,14 @@ import {
 import Icon from '@/components/ui/AppIcon';
 
 
-{/* Actions */}
 const navLinks = [
   { label: 'Home', href: '/', icon: Home },
   { label: 'Features', href: '/#features', icon: Layers },
   { label: 'Templates', href: '/#templates', icon: FileText },
- // { label: 'Pricing', href: '/#pricing', icon: FileText },// ///////////////////////////////
+ // { label: 'Pricing', href: '/#pricing', icon: FileText },
   { label: 'FAQ', href: '/#faq', icon: HelpCircle },
-  { label: 'Contact', href: '/#contact', icon: Mail },
-  { label: 'Dashboard', href: '/dashboard', icon: LayoutDashboard },
+  { label: 'Contact', href: 'https://azeeltechnologies.com/contact.html', icon: Mail },
+ // { label: 'Dashboard', href: '/dashboard', icon: LayoutDashboard },
 ];
 
 export default function Navbar() {
