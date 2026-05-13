@@ -24,7 +24,7 @@ export default function CTASection() {
               <span className="gradient-text">Professional Invoice?</span>
             </h2>
             <p className="text-white/70 text-lg max-w-xl mx-auto mb-8">
-              Join 52,000+ freelancers and businesses who use Azeel to invoice clients faster and get paid on time.
+              Join 500+ freelancers and businesses who use Azeel to invoice clients faster and get paid on time.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link href="/invoice-generator" className="btn-primary flex items-center gap-2 text-base px-8 py-4 animate-pulse-glow">
