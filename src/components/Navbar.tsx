@@ -15,7 +15,7 @@ const navLinks = [
   { label: 'Templates', href: '/#templates', icon: FileText },
  // { label: 'Pricing', href: '/#pricing', icon: FileText },
   { label: 'FAQ', href: '/#faq', icon: HelpCircle },
-  { label: 'Contact', href: 'https://azeeltechnologies.com/contact.html', icon: Mail },
+ // { label: 'Contact', href: 'https://azeeltechnologies.com/contact.html', icon: Mail },
  // { label: 'Dashboard', href: '/dashboard', icon: LayoutDashboard },
 ];
 
