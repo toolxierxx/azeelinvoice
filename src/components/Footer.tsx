@@ -107,7 +107,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2 mb-4">
               <AppLogo size={40} />
               <div>
-                <div className="font-extrabold text-lg text-white">Azeel Invoice Easil</div>
+                <div className="font-extrabold text-lg text-white">Azeel Invoice</div>
                 <div className="text-xs text-white/50">Create invoices in seconds</div>
               </div>
             </Link>
@@ -174,23 +174,23 @@ export default function Footer() {
 
         {/* Contact */}
         <div className="flex flex-wrap gap-6 mb-8 text-sm text-white/50">
-          <a href="mailto:hello@azeelinvoice.com" className="flex items-center gap-2 hover:text-white transition-colors">
+          <a href="mailto:hello@azeeltechnologies.com" className="flex items-center gap-2 hover:text-white transition-colors">
             <Mail size={14} />
-            hello@azeelinvoice.com
+            hello@azeeltechnologies.com
           </a>
-          <a href="tel:+911234567890" className="flex items-center gap-2 hover:text-white transition-colors">
+          <a href="tel:+916009590154" className="flex items-center gap-2 hover:text-white transition-colors">
             <Phone size={14} />
-            +91 12345 67890
+            +91 6009590154
           </a>
           <span className="flex items-center gap-2">
             <MapPin size={14} />
-            Mumbai, India
+            Gaya ji,Bihar,India
           </span>
         </div>
 
         {/* Bottom */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-3 pt-6 border-t border-white/10 text-xs text-white/40">
-          <span>© 2026 Azeel Invoice Easil. All rights reserved.</span>
+          <span>© 2026 Azeel Invoice. All rights reserved.</span>
           <div className="flex gap-4">
             <Link href="#" className="hover:text-white transition-colors">Privacy</Link>
             <Link href="#" className="hover:text-white transition-colors">Terms</Link>
