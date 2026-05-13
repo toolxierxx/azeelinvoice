@@ -5,7 +5,7 @@ import { ChevronDown, HelpCircle } from 'lucide-react';
 const faqs = [
   {
     id: 'faq-free',
-    q: 'Is Azeel Invoice Easil really free forever?',
+    q: 'Is Azeel Invoice really free forever?',
     a: 'Yes, the Free plan is genuinely free with no credit card required. You get unlimited invoice creation, 6 templates, PDF download, GST calculator, and LocalStorage-based history — all free, forever.',
   },
   {
@@ -61,7 +61,7 @@ export default function FAQSection() {
             <span className="gradient-text">Questions</span>
           </h2>
           <p className="text-muted-foreground text-lg max-w-xl mx-auto">
-            Everything you need to know about Azeel Invoice Easil.
+            Everything you need to know about Azeel Invoice.
           </p>
         </div>
 
