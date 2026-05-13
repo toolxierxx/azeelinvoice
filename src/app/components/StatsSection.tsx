@@ -5,11 +5,11 @@ import Icon from '@/components/ui/AppIcon';
 
 
 const stats = [
-  { id: 'stat-users', icon: Users, value: 52400, suffix: '+', label: 'Active Users', color: 'text-primary' },
-  { id: 'stat-invoices', icon: FileText, value: 2100000, suffix: '+', label: 'Invoices Created', color: 'text-sky' },
-  { id: 'stat-countries', icon: Globe, value: 87, suffix: '', label: 'Countries Supported', color: 'text-green' },
+  { id: 'stat-users', icon: Users, value: 500, suffix: '+', label: 'Active Users', color: 'text-primary' },
+  { id: 'stat-invoices', icon: FileText, value: 2100, suffix: '+', label: 'Invoices Created', color: 'text-sky' },
+  { id: 'stat-countries', icon: Globe, value: 8, suffix: '', label: 'Countries Supported', color: 'text-green' },
   { id: 'stat-rating', icon: Award, value: 4.9, suffix: '/5', label: 'Average Rating', color: 'text-amber' },
-  { id: 'stat-revenue', icon: TrendingUp, value: 480, suffix: 'Cr+', label: 'Revenue Tracked', color: 'text-red' },
+  { id: 'stat-revenue', icon: TrendingUp, value: 4, suffix: 'Cr+', label: 'Revenue Tracked', color: 'text-red' },
   { id: 'stat-time', icon: Clock, value: 30, suffix: 'sec', label: 'Avg. Invoice Time', color: 'text-primary' },
 ];
 
