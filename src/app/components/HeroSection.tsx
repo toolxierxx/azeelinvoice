@@ -36,7 +36,7 @@ const floatingCards = [
     id: 'card-rating',
     label: 'Customer Rating',
     value: '4.9 / 5.0',
-    sub: '12,400+ reviews',
+    sub: '40+ reviews',
     color: 'from-amber/20 to-amber/5',
     accent: 'text-amber',
     icon: Star,
@@ -90,7 +90,7 @@ export default function HeroSection() {
             {/* Badge */}
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/20 border border-primary/30 text-sky text-sm font-600 mb-8 backdrop-blur-sm">
               <Zap size={14} className="text-amber" />
-              <span>Trusted by 50,000+ businesses worldwide</span>
+              <span>Trusted by 500+ businesses worldwide</span>
             </div>
 
             <h1 className="text-hero-xl font-extrabold text-white mb-6 leading-tight">
@@ -151,7 +151,7 @@ export default function HeroSection() {
               </div>
               <div>
                 <div className="flex text-amber text-sm">★★★★★</div>
-                <div className="text-xs text-white/50">4.9/5 from 12,400+ reviews</div>
+                <div className="text-xs text-white/50">4.9/5 from 40+ reviews</div>
               </div>
             </div>
           </div>
@@ -170,18 +170,18 @@ export default function HeroSection() {
                     </div>
                     <div className="text-right">
                       <div className="text-xs text-white/60 mb-0.5">Due Date</div>
-                      <div className="font-700 text-sm">15 Jun, 2026</div>
+                      <div className="font-700 text-sm">15 Jan, 2026</div>
                     </div>
                   </div>
                   <div className="flex justify-between">
                     <div>
                       <div className="text-xs text-white/60 mb-0.5">From</div>
                       <div className="font-600 text-sm">Azeel Technologies</div>
-                      <div className="text-xs text-white/60">GST: 27AADCA2354Q1Z5</div>
+                      <div className="text-xs text-white/60">GST: 27AADCA23XXXXX</div>
                     </div>
                     <div className="text-right">
                       <div className="text-xs text-white/60 mb-0.5">To</div>
-                      <div className="font-600 text-sm">Nexus Corp Pvt Ltd</div>
+                      <div className="font-600 text-sm">Super Syno Pvt Ltd</div>
                       <div className="text-xs text-white/60">Mumbai, MH</div>
                     </div>
                   </div>
